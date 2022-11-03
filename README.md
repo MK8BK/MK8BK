@@ -4,7 +4,13 @@ Welcome to my github profile, here you will find my most recent repositories and
 
 Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github.io)
 
-Interests:
+## Technologies
+Python - SQL - ScikitLearn - Matplotlib - Pandas - Numpy - Jupyter - VSCode
+
+## Skills
+Data preprocessing - Data Visualization - Modeling - Mathematics Communication Skills
+
+## Interests:
 - Data Science
 - Machine Learning
 - Deep Learning
@@ -14,7 +20,7 @@ Interests:
 - Functional Programming
 
 My Learning objectives are
-Learning Roadmap:
+## Learning Roadmap:
 - IBM Data Science Certifiction
 - DeepLearning.AI Machine Learning Specialization
 - DeepLearning.AI Deep Learning Specialization
