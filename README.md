@@ -1,3 +1,22 @@
-[<img src="https://mk8bk.github.io/data/logos/icons/mk8bkred/out.png" width="50px" height="50px">](https://mk8bk.github.io)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="50px" height="50px">](https://www.linkedin.com/in/moncef-karim-ait-belkacem-a31b75191)
+# Moncef AIT BELKACEM
+
+Welcome to my github profile, here you will find my most recent repositories and projects.
+
+Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github.io)
+
+Interests:
+- Data Science
+- Machine Learning
+- Deep Learning
+- Data Visualization
+- Modeling real world phenomenons
+- Mathematics (Linear Algebra-Analysis-Optimization)
+- Functional Programming
+
+My Learning objectives are
+Learning Roadmap:
+- IBM Data Science Certifiction
+- DeepLearning.AI Machine Learning Specialization
+- DeepLearning.AI Deep Learning Specialization
+- Java Enterprise Application Development
+- Haskell Basics
