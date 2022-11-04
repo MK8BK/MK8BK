@@ -10,6 +10,14 @@ Python - SQL - ScikitLearn - Matplotlib - Pandas - Numpy - Jupyter - VSCode
 ## Skills
 Data preprocessing - Data Visualization - Modeling - Mathematics Communication Skills
 
+## TODO
+- 5 Data Science Reports (standard pdf-notebooks repositories), 
+   - 2 in Finance
+   - 2 in HealthCare
+   - 1 in Music
+   
+- 2-3 Data science dashboards (plotly dash web app)(included within the others)
+
 ## Interests:
 - Data Science
 - Machine Learning
@@ -21,8 +29,8 @@ Data preprocessing - Data Visualization - Modeling - Mathematics Communication S
 
 My Learning objectives are
 ## Learning Roadmap:
-- IBM Data Science Certifiction
+- Statistics
 - DeepLearning.AI Machine Learning Specialization
 - DeepLearning.AI Deep Learning Specialization
-- Java Enterprise Application Development
+- Java Web Application Development - Spring
 - Haskell Basics
