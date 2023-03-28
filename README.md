@@ -5,24 +5,14 @@ Welcome to my github profile, here you will find my most recent repositories and
 Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github.io)
 
 ## Technologies
-Python - SQL - ScikitLearn - Matplotlib - Pandas - Numpy - Jupyter - VSCode
-
-## Skills
-Data preprocessing - Data Visualization - Modeling - Mathematics Communication Skills
+Python - SQL - ScikitLearn - Matplotlib - Pandas - Numpy - Java SE 17 - Jackson (Java Json Processing Library) - Maven - Jupyter - VSCode - Pycharm - Intellij Idea
 
 ## Interests:
 - Data Science
 - Machine Learning
 - Deep Learning
 - Data Visualization
-- Modeling real world phenomenons
 - Mathematics (Linear Algebra-Analysis-Optimization)
-- Functional Programming
-
-My Learning objectives are
-## Learning Roadmap:
-- Statistics
-- DeepLearning.AI Machine Learning Specialization
-- DeepLearning.AI Deep Learning Specialization
-- Java Web Application Development - Spring
-- Haskell Basics
+- Networking
+- Django
+- Java OOP and Large Project Design (working on one right now)
