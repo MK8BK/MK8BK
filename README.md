@@ -5,7 +5,19 @@ Welcome to my github profile, here you will find my most recent repositories and
 Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github.io)
 
 ## Technologies
-Python - SQL - ScikitLearn - Matplotlib - Pandas - Numpy - Java SE 17 - Jackson (Java Json Processing Library) - Maven - Jupyter - VSCode - Pycharm - Intellij Idea
+- Python
+- SQL
+- ScikitLearn
+- Matplotlib
+- Pandas
+- Numpy
+- Java SE 17
+- Jackson (Java Json Processing Library)
+- Maven
+- Jupyter
+- VSCode
+- Pycharm
+- Intellij Idea
 
 ## Interests:
 - Data Science
