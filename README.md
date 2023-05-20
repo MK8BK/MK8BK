@@ -5,16 +5,20 @@ Welcome to my github profile, here you will find my most recent repositories and
 Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github.io)
 
 ## Technologies
-**`Python`**, **`Numpy`**, **`Pandas`**, **`SQL`**,
+**`Python`** **`Numpy`** **`Pandas`** **`SQL`**
 
-**`Matplotlib`**, **`Seaborn`**, **`Plotly Dash`**,
+**`Matplotlib`** **`Seaborn`** **`Plotly Dash`**
 
-**`Scikit-Learn`**, **`Tensorflow`**, **`Pytorch`**,
+**`Scikit-Learn`** **`Tensorflow`** **`Pytorch`**
 
-**`Django`**, **`HTML5`**, **`CSS3`** *--very bad* ,
+**`Django`** **`HTML5`** **`CSS3`**
 
-**`Bootstrap`**, **`TailwindCSS`**,
+**`Bootstrap`** **`TailwindCSS`**
 
-**`Javascript`**, **`React`**,
+**`Javascript`** **`React`**
 
-**`Java SE 17`**.
+**`C`**
+
+
+## Would Like to Learn
+**Go**
