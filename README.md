@@ -13,7 +13,7 @@ Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github
 
 **`Django`** **`HTML5`** **`CSS3`**
 
-**`Bootstrap`** **`TailwindCSS`**
+**`Bootstrap`**
 
 **`Javascript`** **`React`**
 
