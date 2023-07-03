@@ -13,12 +13,14 @@ Feel free to visit my online portfolio at [mk8bk.github.io](https://mk8bk.github
 
 **`Django`** **`HTML5`** **`CSS3`**
 
+**`Java`** **`Swing`** **`Postgresql`**
+
 **`Bootstrap`**
 
 **`Javascript`** **`React`**
 
-**`C`**
+**`C`** 
 
 
 ## Would Like to Learn
-**`Go`**
+**`C++`**
